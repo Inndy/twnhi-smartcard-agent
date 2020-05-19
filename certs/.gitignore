@@ -1,0 +1,7 @@
+*.crt
+*.key
+ca.srl
+!ca.crt
+!chain.crt
+!host.crt
+!host.key
